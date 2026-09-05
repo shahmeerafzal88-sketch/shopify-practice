@@ -1,0 +1,2 @@
+# shopify-practice
+prtcice store
